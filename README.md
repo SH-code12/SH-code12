@@ -3,9 +3,10 @@
 
 ![code2](https://github.com/user-attachments/assets/20205fa2-d88f-4717-a129-2235f5613d73)
 
-## Projects
+### 🌱 I’m currently learning **Embedded Linux, expanding my knowledge in cloud technologies and advanced DevOps practices**
 
-- 🌱 I’m currently learning **Embedded Linux, expanding my knowledge in cloud technologies and advanced DevOps practices**
+
+## Projects
 
 - ⚙️ I have worked on [Apply DevOps Tools for a simple Flask Application](https://github.com/SH-code12/DevOps_task)
 
