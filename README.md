@@ -1,8 +1,6 @@
-<img algin="right" alt="coding" width="400" scr= "https://miro.medium.com/v2/resize:fit:960/1*kbUTNQ5Pw-esY0-8yjb8JQ.gif">
-
+![code1](https://github.com/user-attachments/assets/27554c67-0406-450b-b953-38eb98535fec)
 <h1 align="center">Hi 👋, I'm Shahd Elnassag</h1>
 <h3 align="center">A Student at FCAI Cairo University from Egypt</h3>
-<img algin="right" alt="coding" width="400" scr= "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 - ⚙️ I have worked on [Apply DevOps Tools for a simple Flask Application](https://github.com/SH-code12/DevOps_task)
 
