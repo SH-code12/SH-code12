@@ -15,7 +15,15 @@
 - 🖼️ I have worked on [Image Processing Filters](https://github.com/FatmaAtta/Image_Processing)
 
 ## 💬 Ask me about
-- **Linux, DevOps**
+- **Linux, DevOps, Software Development**
+
+## 📜🏅 Certificate of Achievement
+- DevOps
+   ![Image](https://github.com/user-attachments/assets/fdacaefd-2957-40ed-9c7a-a1bdbdb874f9)
+  
+- English
+  ![Image](https://github.com/user-attachments/assets/2160163b-f9bf-4291-a4d7-0b05c2249674)
+
 
 ## 📫 How to reach me
 - **shahdelnassag@gmail.com**
