@@ -18,11 +18,8 @@
 - **Linux, DevOps, Software Development**
 
 ## 📜🏅 Certificate of Achievement
-- DevOps
-  ![Image](https://github.com/user-attachments/assets/1d656202-e2ec-4656-a94d-9c4184eb3c78)
-    
-- English
-  ![Image](https://github.com/user-attachments/assets/d5d86164-61fd-4838-9b5a-1d28cba264c1)
+![Image](https://github.com/user-attachments/assets/1d656202-e2ec-4656-a94d-9c4184eb3c78)   
+![Image](https://github.com/user-attachments/assets/d5d86164-61fd-4838-9b5a-1d28cba264c1)
 
 ## 📫 How to reach me
 - **shahdelnassag@gmail.com**
