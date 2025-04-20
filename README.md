@@ -19,11 +19,10 @@
 
 ## 📜🏅 Certificate of Achievement
 - DevOps
-   ![Image](https://github.com/user-attachments/assets/fdacaefd-2957-40ed-9c7a-a1bdbdb874f9)
-  
+  ![Image](https://github.com/user-attachments/assets/1d656202-e2ec-4656-a94d-9c4184eb3c78)
+    
 - English
-  ![Image](https://github.com/user-attachments/assets/2160163b-f9bf-4291-a4d7-0b05c2249674)
-
+  ![Image](https://github.com/user-attachments/assets/d5d86164-61fd-4838-9b5a-1d28cba264c1)
 
 ## 📫 How to reach me
 - **shahdelnassag@gmail.com**
