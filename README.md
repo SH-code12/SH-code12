@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shahd Elnassag</h1>
-<h3 align="center">A Student at FCAI Cairo University from Egypt</h3>
+<h3 align="center">Software Engineer"</h3>
 
 ![code2](https://github.com/user-attachments/assets/20205fa2-d88f-4717-a129-2235f5613d73)
 
-### 🌱 I’m currently learning **Embedded Linux, expanding my knowledge in cloud technologies and advanced DevOps practices**
+### 🌱 Professional Profile
+```
+1. Title: "Software Engineer".
+2. Description: "Enthusiastic learner with software development, and modern technologies. Skilled in
+programming and DevOps tools"
+```
+### Core Competencies
+```
+1. Programming Languages: ["Python", "Java", "C++", "JavaScript", "HTML/CSS"]
+2. DevOps Tools: ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "Grafana","Promethous","Loki"]
+3. Software Engineering: "Proficient in object-oriented programming, UML design, and system modeling."
+4. Database Systems: "Experienced in database design, ERD modeling, and SQL Server implementation**
+```
 
 
 ## Projects
