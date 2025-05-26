@@ -20,14 +20,66 @@ programming and DevOps tools"
 
 ## Projects
 
-- ⚙️ I have worked on [Apply DevOps Tools for a simple Flask Application](https://github.com/SH-code12/DevOps_task)
+🐳🔁🚀📊 1. DevOps Environment Setup
+Automated deployment of a Flask application using full DevOps lifecycle. Built CI/CD pipelines, containerized services, and implemented real-time monitoring.
+Tools: Docker, Docker Compose, GitHub Actions, Terraform, Ansible, Kubernetes, Helm, Prometheus, Grafana, Loki
 
-- 📚 I have worked on [Online library website](https://github.com/SH-code12/Library_Website)
+📚🌐💻 2. Online Library Website
+Created a web platform for searching and borrowing books with full-stack development.
+Tools: Python (Django), HTML, CSS, JavaScript
 
-- 🖼️ I have worked on [Image Processing Filters](https://github.com/FatmaAtta/Image_Processing)
+ 🖥️📦⚙️ 3. Cross-Platform C Program for MIPS Architecture
+Cross-compiled a C application to run on a MIPS-based Linux system. Configured toolchains and tested execution on QEMU.
+Tools: GCC cross-compiler, QEMU, Makefile, Ubuntu.
+
+🎮🐍🧠 4. Gomoku AI Game in Python (GUI)
+Developed a GUI-based Gomoku game supporting Human vs Human, Human vs AI, and AI vs AI (minimax vs alpha-beta pruning) play modes.
+Tools: Python, Tkinter, Minimax Algorithm.
+
+🎨🧮🪟 5. Graphics Application in C++ (WinAPI)
+Created a graphics program to draw Hermite and Bézier curves with color interpolation, circle filling using Bresenham’s algorithm, and polygon clipping with Cohen-Sutherland, all using WinAPI and no STL containers.
+Tools: C++, WinAPI.
+
+🌐📚🧑‍🏫 6. Learning Management System (LMS) Web Application
+Developed a multi-role LMS platform for managing courses, assessments, and user progress tracking. Used Java with Spring Boot for backend, MySQL for the database, and followed a layered architecture. Implemented features like performance analytics, role-based access control, and email notifications.
+Tools: Spring Boot, MySQL, IntelliJ, Postman, Git, GitHub.
+
+✈️🧾🧳 3. Flight Reservation System
+Designed a system for booking and managing flights with robust database design and GUI.
+Tools: Microsoft SQL Server, SQL queries, ERD design, GUI frameworks.
+
+🚁🗺️🔋 8. Drone Delivery Pathfinding using A in Prolog*
+Designed an intelligent drone navigation system that calculates optimal paths using A* search, considering energy constraints, obstacles, delivery points, and recharge stations in a city grid.
+Tools: SWI-Prolog, VS Code.
+
+🖼️🌫️🎛️ 9. Gray Scale Image Processor
+Built a C++ application for real-time image filtering and editing using OOP principles.
+Tools: C++, OOP, pixel-level operations.
+
+🧠💾🖱️ 10. Machine Instruction Simulator
+Simulated instruction execution with visualized memory and register status updates.
+Tools: C++, Hex file parsing, OOP.
+
+➕📐🔢 11. BigReal Class (Arbitrary Precision Real Number Library)
+Implemented custom operations on large real numbers beyond standard data types.
+Tools: C++, OOP, operator overloading.
+
+⭕❌🎯 12. Tic-Tac-Toe Game Variations
+Created multiple game versions including 5x5, Pyramid, and Four-in-a-Row using modular design.
+Tools: C++, OOP.
 
 ## 💬 Ask me about
-- **Linux, DevOps, Software Development**
+- Linux, DevOps, Software Development
+- CI/CD, Docker, Kubernetes, GitHub Actions
+- Terraform, Ansible, Helm, Prometheus, Grafana, Loki
+- Cross-compilation, QEMU, MIPS Architecture
+- Python, Django, Flask, Tkinter GUI
+- AI Algorithms: Minimax, Alpha-Beta Pruning
+- C++, OOP, Data Structures, STL-Free WinAPI Programming
+- Spring Boot, MySQL, RESTful APIs, Postman
+- SQL Server, ERD Design, Database Querying
+- SWI-Prolog, A Search, Constraint-based Pathfinding*
+- Modular Game Design, Tic-Tac-Toe Variants, Board Game Logic
 
 ## 📜🏅 Certificate of Achievement
 ![Image](https://github.com/user-attachments/assets/1d656202-e2ec-4656-a94d-9c4184eb3c78)   
