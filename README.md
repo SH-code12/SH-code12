@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahd Elnassag</h1>
-<h3 align="center">Software Engineer"</h3>
+<h2 align="center"> 🧑‍💻 Software Engineer</h2>
 
 ![code2](https://github.com/user-attachments/assets/20205fa2-d88f-4717-a129-2235f5613d73)
 
