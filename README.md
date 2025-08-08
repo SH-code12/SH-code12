@@ -20,7 +20,7 @@ programming, and DevOps tools"
 
 ## Projects
 
-🐳🔁🚀📊 1. DevOps Environment Setup
+🐳🔁🚀📊 1.[DevOps Environment Setup](#https://github.com/SH-code12/DevOps_task)
 Automated deployment of a Flask application using full DevOps lifecycle. Built CI/CD pipelines, containerized services, and implemented real-time monitoring.
 Tools: Docker, Docker Compose, GitHub Actions, Terraform, Ansible, Kubernetes, Helm, Prometheus, Grafana, Loki
 
