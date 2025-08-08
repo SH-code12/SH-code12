@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahd Elnassag</h1>
-<h2 align="center"> 🧑‍💻 Software Engineer</h2>
+<h2 align="center"> 🧑‍💻 Software Engineer | DevOps Engineer | Embedded Systems</h2>
 
 ![code2](https://github.com/user-attachments/assets/20205fa2-d88f-4717-a129-2235f5613d73)
 
@@ -7,12 +7,12 @@
 ```
 1. Title: "Software Engineer".
 2. Description: "Enthusiastic learner with software development, and modern technologies. Skilled in
-programming and DevOps tools"
+programming, and DevOps tools"
 ```
 ### Core Competencies
 ```
 1. Programming Languages: ["Python", "Java", "C++", "JavaScript", "HTML/CSS"]
-2. DevOps Tools: ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "Grafana","Promethous","Loki"]
+2. DevOps Tools: ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins","GutHub Actions","Grafana","Promethous","Loki"]
 3. Software Engineering: "Proficient in object-oriented programming, UML design, and system modeling."
 4. Database Systems: "Experienced in database design, ERD modeling, and SQL Server implementation**
 ```
