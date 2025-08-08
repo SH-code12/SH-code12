@@ -22,21 +22,27 @@ programming, and DevOps tools"
 
 🐳🔁🚀📊 1.<a href="https://github.com/SH-code12/DevOps_task" target="_blank"> DevOps Environment Setup</a>
 
-    Automated deployment of a Flask application using full DevOps lifecycle. Built CI/CD pipelines, containerized services, and implemented real-time monitoring.
+    Automated deployment of a Flask application using full DevOps lifecycle. Built CI/CD pipelines,
+    containerized services, and implemented real-time monitoring.
 
-    Technolgies: ["Docker", "Docker Compose","Nginx", "GitHub Actions", "Terraform", "Ansible", "Kubernetes", "Helm", "Prometheus", "Grafana", "Loki"]
+    Technolgies: ["Docker", "Docker Compose","Nginx", "GitHub Actions", "Terraform",
+    "Ansible", "Kubernetes", "Helm", "Prometheus", "Grafana", "Loki"]
 
 🌐📚🧑‍🏫 2.<a href="https://github.com/SH-code12/Java-Based-Learning-Management-System" target="_blank"> Learning Management System (LMS) Web Application
 </a>  
 
-    Developed a multi-role LMS platform for managing courses, assessments, and user progress tracking. Used Java with Spring Boot for backend, MySQL for the database, and followed a layered architecture. Implemented features like performance analytics, role-based access control, and email notifications.
+    Developed a multi-role LMS platform for managing courses, assessments, and user progress tracking.
+    Used Java with Spring Boot for backend, MySQL for the database, and followed a layered architecture.
+    Implemented features like performance analytics, role-based access control, and email notifications.
 
     Technolgies: ["Spring Boot", "MySQL", "Java", "Postman"]
 
 🎨🧮🪟 3.<a href="https://github.com/MalakHisham121/Graphics-Project" target="_blank"> Graphics Application in C++ (WinAPI)
 </a>  
 
-    Created a graphics program to draw Hermite and Bézier curves with color interpolation, circle filling using Bresenham’s algorithm, and polygon clipping with Cohen-Sutherland, all using WinAPI and no STL containers.
+    Created a graphics program to draw Hermite and Bézier curves with color interpolation,
+    circle filling using Bresenham’s algorithm, and polygon clipping with Cohen-Sutherland,
+    all using WinAPI and no STL containers.
 
     Technolgies: ["C++", "WinAPI"]
 
@@ -58,7 +64,8 @@ programming, and DevOps tools"
 🎮🐍🧠 6.<a href="https://github.com/SH-code12/Gomoku_Game" target="_blank"> Gomoku AI Game in Python (GUI)
 </a>  
 
-    Developed a GUI-based Gomoku game supporting Human vs Human, Human vs AI, and AI vs AI (minimax vs alpha-beta pruning) play modes.
+    Developed a GUI-based Gomoku game supporting Human vs Human, Human vs AI,
+    and AI vs AI (minimax vs alpha-beta pruning) play modes.
 
     Technolgies:["Python", "Tkinter", "Minimax" , "Alpha-beta"] 
 
@@ -73,7 +80,8 @@ programming, and DevOps tools"
  🖥️📦⚙️ 8.<a href="https://github.com/SH-code12/Cross-Platform_Development-" target="_blank"> Cross-Platform C Program for MIPS Architecture
 </a>  
 
-    Cross-compiled a C application to run on a MIPS-based Linux system. Configured toolchains and tested execution on QEMU.
+    Cross-compiled a C application to run on a MIPS-based Linux system.
+    Configured toolchains and tested execution on QEMU.
 
     Technolgies: ["GCC cross-compiler", "QEMU", "Makefile", "Ubuntu"]
 
@@ -101,7 +109,8 @@ programming, and DevOps tools"
 🚁🗺️🔋 12.<a href="https://github.com/asmaatefomran/Searching-Algorithms-Prolog" target="_blank">= Drone Delivery Pathfinding using A in Prolog*
 </a>  
 
-    Designed an intelligent drone navigation system that calculates optimal paths using A* search, considering energy constraints, obstacles, delivery points, and recharge stations in a city grid.
+    Designed an intelligent drone navigation system that calculates optimal paths using A* search,
+    considering energy constraints, obstacles, delivery points, and recharge stations in a city grid.
 
     Technolgies: ["SWI-Prolog"]
 
