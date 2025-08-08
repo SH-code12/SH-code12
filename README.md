@@ -20,53 +20,90 @@ programming, and DevOps tools"
 
 ## Projects
 
-🐳🔁🚀📊 1.[DevOps Environment Setup](#https://github.com/SH-code12/DevOps_task)
-Automated deployment of a Flask application using full DevOps lifecycle. Built CI/CD pipelines, containerized services, and implemented real-time monitoring.
-Tools: Docker, Docker Compose, GitHub Actions, Terraform, Ansible, Kubernetes, Helm, Prometheus, Grafana, Loki
+🐳🔁🚀📊 1.<a href="https://github.com/SH-code12/DevOps_task" target="_blank"> DevOps Environment Setup</a>
 
-📚🌐💻 2. Online Library Website
-Created a web platform for searching and borrowing books with full-stack development.
-Tools: Python (Django), HTML, CSS, JavaScript
+    Automated deployment of a Flask application using full DevOps lifecycle. Built CI/CD pipelines, containerized services, and implemented real-time monitoring.
 
- 🖥️📦⚙️ 3. Cross-Platform C Program for MIPS Architecture
-Cross-compiled a C application to run on a MIPS-based Linux system. Configured toolchains and tested execution on QEMU.
-Tools: GCC cross-compiler, QEMU, Makefile, Ubuntu.
+    Technolgies: ["Docker", "Docker Compose","Nginx", "GitHub Actions", "Terraform", "Ansible", "Kubernetes", "Helm", "Prometheus", "Grafana", "Loki"]
 
-🎮🐍🧠 4. Gomoku AI Game in Python (GUI)
-Developed a GUI-based Gomoku game supporting Human vs Human, Human vs AI, and AI vs AI (minimax vs alpha-beta pruning) play modes.
-Tools: Python, Tkinter, Minimax Algorithm.
+🌐📚🧑‍🏫 2.<a href="https://github.com/SH-code12/Java-Based-Learning-Management-System" target="_blank"> Learning Management System (LMS) Web Application
+</a>  
 
-🎨🧮🪟 5. Graphics Application in C++ (WinAPI)
-Created a graphics program to draw Hermite and Bézier curves with color interpolation, circle filling using Bresenham’s algorithm, and polygon clipping with Cohen-Sutherland, all using WinAPI and no STL containers.
-Tools: C++, WinAPI.
+    Developed a multi-role LMS platform for managing courses, assessments, and user progress tracking. Used Java with Spring Boot for backend, MySQL for the database, and followed a layered architecture. Implemented features like performance analytics, role-based access control, and email notifications.
 
-🌐📚🧑‍🏫 6. Learning Management System (LMS) Web Application
-Developed a multi-role LMS platform for managing courses, assessments, and user progress tracking. Used Java with Spring Boot for backend, MySQL for the database, and followed a layered architecture. Implemented features like performance analytics, role-based access control, and email notifications.
-Tools: Spring Boot, MySQL, IntelliJ, Postman, Git, GitHub.
+    Technolgies: ["Spring Boot", "MySQL", "Java", "Postman"]
 
-✈️🧾🧳 3. Flight Reservation System
-Designed a system for booking and managing flights with robust database design and GUI.
-Tools: Microsoft SQL Server, SQL queries, ERD design, GUI frameworks.
+🎨🧮🪟 3.<a href="https://github.com/MalakHisham121/Graphics-Project" target="_blank"> Graphics Application in C++ (WinAPI)
+</a>  
 
-🚁🗺️🔋 8. Drone Delivery Pathfinding using A in Prolog*
-Designed an intelligent drone navigation system that calculates optimal paths using A* search, considering energy constraints, obstacles, delivery points, and recharge stations in a city grid.
-Tools: SWI-Prolog, VS Code.
+    Created a graphics program to draw Hermite and Bézier curves with color interpolation, circle filling using Bresenham’s algorithm, and polygon clipping with Cohen-Sutherland, all using WinAPI and no STL containers.
 
-🖼️🌫️🎛️ 9. Gray Scale Image Processor
-Built a C++ application for real-time image filtering and editing using OOP principles.
-Tools: C++, OOP, pixel-level operations.
+    Technolgies: ["C++", "WinAPI"]
 
-🧠💾🖱️ 10. Machine Instruction Simulator
-Simulated instruction execution with visualized memory and register status updates.
-Tools: C++, Hex file parsing, OOP.
 
-➕📐🔢 11. BigReal Class (Arbitrary Precision Real Number Library)
-Implemented custom operations on large real numbers beyond standard data types.
-Tools: C++, OOP, operator overloading.
+📚🌐💻 4.<a href="https://github.com/SH-code12/Library_Website" target="_blank"> Online Library Website
+</a> 
 
-⭕❌🎯 12. Tic-Tac-Toe Game Variations
-Created multiple game versions including 5x5, Pyramid, and Four-in-a-Row using modular design.
-Tools: C++, OOP.
+    Created a web platform for searching and borrowing books with full-stack development.
+
+    Technolgies: ["Python (Django)", "HTML", "CSS", "JavaScript"]
+
+✈️🧾🧳 5.<a href="https://github.com/SH-code12/Flight_Reservation_Project" target="_blank"> Flight Reservation System
+</a> 
+
+    Designed a system for booking and managing flights with robust database design and GUI.
+
+    TOOLS: ["Microsoft SQL Server", "ERD design", "GUI frameworks"]
+
+🎮🐍🧠 6.<a href="https://github.com/SH-code12/Gomoku_Game" target="_blank"> Gomoku AI Game in Python (GUI)
+</a>  
+
+    Developed a GUI-based Gomoku game supporting Human vs Human, Human vs AI, and AI vs AI (minimax vs alpha-beta pruning) play modes.
+
+    Technolgies:["Python", "Tkinter", "Minimax" , "Alpha-beta"] 
+
+
+🖼️🌫️🎛️ 7.<a href="https://github.com/FatmaAtta/Image_Processing" target="_blank"> Gray Scale Image Processor
+</a>  
+
+    Built a C++ application for real-time image filtering and editing using OOP principles.
+
+    Technolgies: [C++", "OOP", "pixel-level operations"]
+
+ 🖥️📦⚙️ 8.<a href="https://github.com/SH-code12/Cross-Platform_Development-" target="_blank"> Cross-Platform C Program for MIPS Architecture
+</a>  
+
+    Cross-compiled a C application to run on a MIPS-based Linux system. Configured toolchains and tested execution on QEMU.
+
+    Technolgies: ["GCC cross-compiler", "QEMU", "Makefile", "Ubuntu"]
+
+🧠💾🖱️ 9.<a href="https://github.com/SH-code12/Machine-Simulator" target="_blank"> Machine Instruction Simulator
+</a>  
+
+    Simulated instruction execution with visualized memory and register status updates.
+
+    Technolgies: ["C++", "Hex file parsing", "OOP"]
+
+➕📐🔢 10.<a href="https://github.com/SH-code12/Big-Real" target="_blank"> BigReal Class (Arbitrary Precision Real Number Library)
+</a>  =
+
+    Implemented custom operations on large real numbers beyond standard data types.
+
+    Technolgies: ["C++", "OOP", "operator overloading"]
+
+⭕❌🎯 11.<a href="https://github.com/SH-code12/Tic-Tac-Toe-Game-Variations" target="_blank"> Tic-Tac-Toe Game Variations
+</a>  
+
+    Created multiple game versions including 5x5, Pyramid, and Four-in-a-Row using modular design.
+
+    Technolgies: ["C++", "OOP"]
+
+🚁🗺️🔋 12.<a href="https://github.com/asmaatefomran/Searching-Algorithms-Prolog" target="_blank">= Drone Delivery Pathfinding using A in Prolog*
+</a>  
+
+    Designed an intelligent drone navigation system that calculates optimal paths using A* search, considering energy constraints, obstacles, delivery points, and recharge stations in a city grid.
+
+    Technolgies: ["SWI-Prolog"]
 
 ## 💬 Ask me about
 - Linux, DevOps, Software Development
