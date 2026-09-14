@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahd Elnassag</h1>
-<h2 align="center"> 🧑‍💻 Software Engineer | DevOps Engineer | Embedded Systems</h2>
+<h2 align="center"> 🧑‍💻 Software Engineer /h2>
 
 ![code2](https://github.com/user-attachments/assets/20205fa2-d88f-4717-a129-2235f5613d73)
 
@@ -136,7 +136,6 @@ programming, and DevOps tools"
 
 <img width="700" height="1414" alt="Image" src="https://github.com/user-attachments/assets/9a20f62b-25ef-423e-af19-45c7df3368e4" />
 
-![Image](https://github.com/user-attachments/assets/d78ffb9f-f8ec-4a46-8519-e6bbfcdd68c7)
 
 ## 📫 How to reach me
 - **shahdelnassag@gmail.com**
