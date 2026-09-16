@@ -1,155 +1,381 @@
-<h1 align="center">Hi 👋, I'm Shahd Elnassag</h1>
-<h2 align="center"> 🧑‍💻 Software Engineer </h2>
+<div align="center">
 
-![code2](https://github.com/user-attachments/assets/20205fa2-d88f-4717-a129-2235f5613d73)
+# 👋 Hi, I'm Shahd Mohamed Elnassag
 
-### 🌱 Professional Profile
-```
-1. Title: "Software Engineer".
-2. Description: "Enthusiastic learner with software development, and modern technologies. Skilled in
-programming, and DevOps tools"
-```
-### Core Competencies
-```
-1. Programming Languages: ["Python", "Java", "C++", "JavaScript", "HTML/CSS"]
-2. DevOps Tools: ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins","GutHub Actions","Grafana","Promethous","Loki"]
-3. Software Engineering: "Proficient in object-oriented programming, UML design, and system modeling."
-4. Database Systems: "Experienced in database design, ERD modeling, and SQL Server implementation**
-```
+### 💻 Software Engineer | Backend & DevOps | Automation & Cloud
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+DevOps+Engineer;Java+%7C+Python+%7C+C%2B%2B;Docker+%7C+Kubernetes+%7C+CI%2FCD;Automation+%7C+Cloud+%7C+System+Engineering" alt="Typing SVG" />
 
-## Projects
+<br/>
 
-🐳🔁🚀📊 1.<a href="https://github.com/SH-code12/DevOps_task" target="_blank"> DevOps Environment Setup</a>
+<a href="https://github.com/SH-code12">
+  <img src="https://img.shields.io/badge/GitHub-SH--code12-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:shahdelnassag@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shahdelnassag%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-    Automated deployment of a Flask application using full DevOps lifecycle. Built CI/CD pipelines,
-    containerized services, and implemented real-time monitoring.
+</div>
 
-    Technolgies: ["Docker", "Docker Compose","Nginx", "GitHub Actions", "Terraform",
-    "Ansible", "Kubernetes", "Helm", "Prometheus", "Grafana", "Loki"]
+---
 
-🌐📚🧑‍🏫 2.<a href="https://github.com/SH-code12/Java-Based-Learning-Management-System" target="_blank"> Learning Management System (LMS) Web Application
-</a>  
+## 🚀 About Me
 
-    Developed a multi-role LMS platform for managing courses, assessments, and user progress tracking.
-    Used Java with Spring Boot for backend, MySQL for the database, and followed a layered architecture.
-    Implemented features like performance analytics, role-based access control, and email notifications.
+I'm a **Software Engineer** with hands-on experience across **backend development, DevOps, automation, software testing, databases, and systems programming**.
 
-    Technolgies: ["Spring Boot", "MySQL", "Java", "Postman"]
+My work focuses on building reliable software, automating development and deployment workflows, designing backend services, and working with modern infrastructure and cloud technologies.
 
-🎨🧮🪟 3.<a href="https://github.com/MalakHisham121/Graphics-Project" target="_blank"> Graphics Application in C++ (WinAPI)
-</a>  
+I enjoy working across the stack — from **writing backend APIs and business logic** to **containerizing applications, building CI/CD pipelines, automating infrastructure, and monitoring distributed systems**.
 
-    Created a graphics program to draw Hermite and Bézier curves with color interpolation,
-    circle filling using Bresenham’s algorithm, and polygon clipping with Cohen-Sutherland,
-    all using WinAPI and no STL containers.
+### What I Do
 
-    Technolgies: ["C++", "WinAPI"]
+* 🔧 Build backend applications and RESTful APIs
+* ☕ Develop Java applications using Spring Boot & Spring Security
+* 🐍 Build web applications and APIs using Python, Django, Flask & FastAPI
+* 🐳 Containerize applications using Docker & Docker Compose
+* ☸️ Deploy and manage applications using Kubernetes & Helm
+* 🔄 Design CI/CD pipelines using GitHub Actions & Jenkins
+* ☁️ Automate infrastructure using Terraform & Ansible
+* 📊 Implement monitoring and centralized logging with Prometheus, Grafana & Loki
+* 🧪 Build UI and API automation testing frameworks
+* 🗄️ Design relational databases and work with SQL
+* ⚙️ Work with systems programming, cross-compilation, QEMU & MIPS
+* 🤖 Explore AI/LLM-powered software systems and automation
 
+---
 
-📚🌐💻 4.<a href="https://github.com/SH-code12/Library_Website" target="_blank"> Online Library Website
-</a> 
+## 💼 Professional Experience
 
-    Created a web platform for searching and borrowing books with full-stack development.
+### 🔹 Software Engineering Intern — EgronX
 
-    Technolgies: ["Python (Django)", "HTML", "CSS", "JavaScript"]
+**Aug 2025 – Oct 2025**
 
-✈️🧾🧳 5.<a href="https://github.com/SH-code12/Flight_Reservation_Project" target="_blank"> Flight Reservation System
-</a> 
+* Engineered RESTful APIs using **Java & Spring Boot**
+* Managed project dependencies using **Gradle**
+* Tested and documented APIs with **Postman**
+* Containerized applications using **Docker & Docker Compose**
+* Designed CI/CD pipelines using **GitHub Actions & Jenkins**
 
-    Designed a system for booking and managing flights with robust database design and GUI.
+### 🔹 Embedded Systems Intern — Siemens Digital Industries Software
 
-    TOOLS: ["Microsoft SQL Server", "ERD design", "GUI frameworks"]
+**Jul 2025 – Sep 2025**
 
-🎮🐍🧠 6.<a href="https://github.com/SH-code12/Gomoku_Game" target="_blank"> Gomoku AI Game in Python (GUI)
-</a>  
+* Worked in an enterprise engineering environment following **Agile & SDLC practices**
+* Studied **microcontroller architecture, RTOS, bootloaders and AUTOSAR**
+* Worked with **CAN communication**
+* Gained exposure to **HSM, cybersecurity and functional safety concepts**
 
-    Developed a GUI-based Gomoku game supporting Human vs Human, Human vs AI,
-    and AI vs AI (minimax vs alpha-beta pruning) play modes.
+### 🔹 DevOps Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)
 
-    Technolgies:["Python", "Tkinter", "Minimax" , "Alpha-beta"] 
+**Apr 2024 – Oct 2024**
 
+* Developed and deployed a dynamic web application using **Python & Flask**
+* Applied **DevOps lifecycle practices and automation**
+* Strengthened technical communication through Business English training
 
-🖼️🌫️🎛️ 7.<a href="https://github.com/FatmaAtta/Image_Processing" target="_blank"> Gray Scale Image Processor
-</a>  
+---
 
-    Built a C++ application for real-time image filtering and editing using OOP principles.
+## 🛠️ Technical Skills
 
-    Technolgies: [C++", "OOP", "pixel-level operations"]
+### 💻 Programming
 
- 🖥️📦⚙️ 8.<a href="https://github.com/SH-code12/Cross-Platform_Development-" target="_blank"> Cross-Platform C Program for MIPS Architecture
-</a>  
-
-    Cross-compiled a C application to run on a MIPS-based Linux system.
-    Configured toolchains and tested execution on QEMU.
-
-    Technolgies: ["GCC cross-compiler", "QEMU", "Makefile", "Ubuntu"]
-
-🧠💾🖱️ 9.<a href="https://github.com/SH-code12/Machine-Simulator" target="_blank"> Machine Instruction Simulator
-</a>  
-
-    Simulated instruction execution with visualized memory and register status updates.
-
-    Technolgies: ["C++", "Hex file parsing", "OOP"]
-
-➕📐🔢 10.<a href="https://github.com/SH-code12/Big-Real" target="_blank"> BigReal Class (Arbitrary Precision Real Number Library)
-</a>  =
-
-    Implemented custom operations on large real numbers beyond standard data types.
-
-    Technolgies: ["C++", "OOP", "operator overloading"]
-
-⭕❌🎯 11.<a href="https://github.com/SH-code12/Tic-Tac-Toe-Game-Variations" target="_blank"> Tic-Tac-Toe Game Variations
-</a>  
-
-    Created multiple game versions including 5x5, Pyramid, and Four-in-a-Row using modular design.
-
-    Technolgies: ["C++", "OOP"]
-
-🚁🗺️🔋 12.<a href="https://github.com/asmaatefomran/Searching-Algorithms-Prolog" target="_blank">= Drone Delivery Pathfinding using A in Prolog*
-</a>  
-
-    Designed an intelligent drone navigation system that calculates optimal paths using A* search,
-    considering energy constraints, obstacles, delivery points, and recharge stations in a city grid.
-
-    Technolgies: ["SWI-Prolog"]
-
-## 💬 Ask me about
-- Linux, DevOps, Software Development
-- CI/CD, Docker, Kubernetes, GitHub Actions
-- Terraform, Ansible, Helm, Prometheus, Grafana, Loki
-- Cross-compilation, QEMU, MIPS Architecture
-- Python, Django, Flask, Tkinter GUI
-- AI Algorithms: Minimax, Alpha-Beta Pruning
-- C++, OOP, Data Structures, STL-Free WinAPI Programming
-- Spring Boot, MySQL, RESTful APIs, Postman
-- SQL Server, ERD Design, Database Querying
-- SWI-Prolog, A Search, Constraint-based Pathfinding*
-- Modular Game Design, Tic-Tac-Toe Variants, Board Game Logic
-
-## 📜🏅 Certificate of Achievement
-<img width="700" height="496" alt="Image" src="https://github.com/user-attachments/assets/a54117f2-7f44-494b-8a6c-1cc0220504bb" />
-
-![Image](https://github.com/user-attachments/assets/1d656202-e2ec-4656-a94d-9c4184eb3c78) 
-
-![Image](https://github.com/user-attachments/assets/d5d86164-61fd-4838-9b5a-1d28cba264c1)
-
-<img width="700" height="1414" alt="Image" src="https://github.com/user-attachments/assets/9a20f62b-25ef-423e-af19-45c7df3368e4" />
-
-
-## 📫 How to reach me
-- **shahdelnassag@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Java • Python • C++ • C • C# • JavaScript • HTML • CSS • Prolog**
 
-## My Actions On GitHub
+### ☁️ DevOps, Cloud & Infrastructure
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-code12&show_icons=true&locale=en&layout=compact" alt="sh-code12" /></p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</p>
 
+**Docker • Docker Compose • Kubernetes • Helm • Terraform • Ansible • Jenkins • GitHub Actions • AWS EC2 • Linux • Nginx**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-code12&" alt="sh-code12" /></p>
+### 📊 Monitoring & Observability
+
+**Prometheus • Grafana • Loki**
+
+### 🔙 Backend & Web
+
+**Spring Boot • Spring Security • FastAPI • Django • Flask • ASP.NET Core • RESTful APIs**
+
+### 🗄️ Databases
+
+**MySQL • PostgreSQL • Microsoft SQL Server • SQL • Database Design • ERD • Normalization**
+
+### 🧪 Testing & Development Tools
+
+**Postman • Selenium WebDriver • TestNG • Allure Reports • Maven • Gradle • Git • QEMU • Makefile**
+
+### 🧠 Software Engineering
+
+**OOP • Design Patterns • Layered Architecture • Onion Architecture • UML • SDLC • Agile • Data Structures • Algorithms**
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 Codience — AI-Powered Pull Request Prioritization Platform
+
+<a href="https://github.com/SH-code12/Codience">🔗 View Repository</a>
+
+**Role:** AI Engineer & DevOps Engineer
+
+An AI-powered platform designed to prioritize Pull Requests according to business impact and assist with reviewer recommendation.
+
+### What I Built
+
+* Built the **Business Impact Scoring** feature using Python, FastAPI, GitHub/Jira APIs and AI/LLM integration
+* Contributed approximately **50% of the Reviewer Recommendation feature**
+* Developed REST APIs connecting frontend, backend and AI services
+* Dockerized the system into independent services
+* Configured service networking between components
+* Implemented CI/CD using **GitHub Actions & Jenkins**
+
+**Technologies:** Python • FastAPI • Docker • GitHub API • Jira API • AI/LLM • GitHub Actions • Jenkins
+
+---
+
+## ☸️ Automated Infrastructure Environment
+
+<a href="https://github.com/SH-code12/DevOps_task">🔗 View Repository</a>
+
+A complete DevOps environment for deploying and monitoring a Flask application.
+
+### What I Built
+
+* Containerized the application using **Docker & Docker Compose**
+* Configured **Nginx** for application delivery
+* Provisioned AWS EC2 infrastructure using **Terraform**
+* Automated server configuration using **Ansible**
+* Built CI/CD pipelines using **GitHub Actions & Jenkins**
+* Deployed applications using **Kubernetes & Helm**
+* Implemented monitoring with **Prometheus & Grafana**
+* Implemented centralized logging using **Loki**
+
+**Technologies:** Docker • Docker Compose • Nginx • Terraform • Ansible • Kubernetes • Helm • Jenkins • GitHub Actions • AWS • Prometheus • Grafana • Loki
+
+---
+
+## ☕ Java-Based Learning Management System
+
+<a href="https://github.com/SH-code12/Java-Based-Learning-Management-System">🔗 View Repository</a>
+
+A full-stack Learning Management System with separate Admin, Instructor and Student roles.
+
+### Features
+
+* Secure authentication
+* Role-based access control using **Spring Security**
+* Course and enrollment management
+* Assessments and grading
+* Attendance tracking
+* System and Gmail notifications
+* Performance tracking
+* Excel reporting
+* Learning analytics dashboards
+
+**Technologies:** Java • Spring Boot • Spring Security • MySQL • REST APIs • Postman
+
+---
+
+## 🧪 Full-Stack Automation & API Testing Framework
+
+<a href="https://github.com/SH-code12/AutomationTestingFrameWork_APITestingDummyJSON">🔗 View Repository</a>
+
+A UI and API automation framework for an e-commerce platform.
+
+### Features
+
+* Selenium WebDriver automation
+* TestNG test execution
+* Page Object Model
+* Data-driven testing
+* API CRUD testing
+* JSON validation
+* Authentication testing
+* Dynamic Bearer-token handling
+* Allure reporting
+
+**Technologies:** Java • Selenium • TestNG • Postman • JavaScript • Allure
+
+---
+
+## 🧩 Open Source Java Soft-Computing Library
+
+<a href="https://github.com/SH-code12/Java-Library">🔗 View Repository</a>
+
+A modular Java library implementing multiple AI and soft-computing techniques.
+
+### Implemented
+
+* Genetic Algorithms
+* Fuzzy Logic
+* Neural Networks
+* Configurable activation functions
+* Weight initialization
+* Optimizers
+* Loss functions
+* Mini-batch training
+* Data preprocessing
+* Model evaluation
+* Model save/load functionality
+
+**Architecture:** Onion Architecture • OOP • Modular Design
+
+---
+
+## 🐍 BiBlioBliss — Online Library Website
+
+<a href="https://github.com/SH-code12/Library_Website">🔗 View Repository</a>
+
+A full-stack online library platform for searching, browsing, borrowing and returning books.
+
+**Technologies:** Python • Django • HTML • CSS • JavaScript • Django ORM
+
+---
+
+## ⚙️ Systems & Low-Level Projects
+
+### 🖥️ Cross-Platform MIPS Development
+
+<a href="https://github.com/SH-code12/Cross-Platform_Development-">🔗 View Repository</a>
+
+* Built a MIPS cross-compilation toolchain
+* Compiled C applications using `mips-linux-gcc`
+* Executed MIPS binaries using **QEMU-MIPS**
+* Documented compilation and architecture workflow
+
+**Technologies:** C • GCC • MIPS • QEMU • Makefile • Linux
+
+### 💾 Vole Machine Simulator
+
+Implemented the fetch-decode-execute cycle and simulated:
+
+**Registers • PC • IR • Memory • Screen • Hexadecimal Programs**
+
+### 🎮 Gomoku AI
+
+<a href="https://github.com/SH-code12/Gomoku_Game">🔗 View Repository</a>
+
+Implemented:
+
+* Human vs Human
+* Human vs AI
+* AI vs AI
+* Minimax
+* Alpha-Beta Pruning
+
+**Technologies:** Python • Tkinter • AI Algorithms
+
+---
+
+# 📚 Other Projects
+
+| Project                          | Technologies                                                   |
+| -------------------------------- | -------------------------------------------------------------- |
+| 🎨 Graphics Application          | C++ • WinAPI • Bézier • Hermite • Bresenham • Cohen-Sutherland |
+| ✈️ Flight Reservation System     | C# • SQL Server • ERD • Windows Forms                          |
+| ⭕ Tic-Tac-Toe Variations         | C++ • OOP • Game Logic                                         |
+| 🧠 Machine Instruction Simulator | C++ • OOP • Hex Parsing                                        |
+| ➕ BigReal Library                | C++ • OOP • Operator Overloading                               |
+| 🚁 Drone Delivery Pathfinding    | Prolog • A* Search                                             |
+| 🖼️ Image Processing             | C++ • OOP • Pixel Processing                                   |
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Computer Science
+
+**Cairo University — Faculty of Computers and Artificial Intelligence**
+
+**Major:** Computer Science
+**Specialization:** DevOps
+**2022 – 2026 | Cairo, Egypt**
+
+---
+
+# 🏅 Certifications & Training
+
+* **Software Engineering Internship — EgronX**
+
+  * DevOps & Backend
+* **Embedded Systems Internship — Siemens Digital Industries Software**
+* **DevOps Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)**
+* **Business English Training — Berlitz**
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SH-code12&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Shahd's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH-code12&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SH-code12&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 💡 What I'm Interested In
+
+```text
+Backend Engineering
+        ↓
+Distributed & Scalable Systems
+        ↓
+DevOps & Cloud Infrastructure
+        ↓
+CI/CD & Automation
+        ↓
+Testing & Software Quality
+        ↓
+AI-Powered Software
+        ↓
+Systems & Low-Level Engineering
+```
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shahdelnassag@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SH-code12">
+  <img src="https://img.shields.io/badge/GitHub-SH--code12-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Building software. Automating systems. Learning continuously.
+
+**Thanks for visiting my profile!**
+
+</div>
