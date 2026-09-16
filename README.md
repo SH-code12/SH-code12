@@ -529,12 +529,13 @@ Intelligent drone navigation system calculating paths while considering:
 
 # 🏅 Certifications & Training
 
-* **Software Engineering Internship — EgronX**
+* [**Embedded Systems Internship — Siemens Digital Industries Software**](https://github.com/SH-code12/SH-code12/issues/7)
 
-  * DevOps & Backend
-* **Embedded Systems Internship — Siemens Digital Industries Software**
-* **DevOps Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)**
-* **Business English Training — Berlitz**
+* [**Software Engineering Internship — EgronX**](https://github.com/SH-code12/SH-code12/issues/6)
+
+* [**DevOps Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI), EUI University**](https://github.com/SH-code12/SH-code12/issues/3#issue-3007092306)
+
+* [**Business English Training — Berlitz**](https://github.com/SH-code12/SH-code12/issues/4)
 
 ---
 
