@@ -1,18 +1,20 @@
+````markdown
 <div align="center">
 
 # 👋 Hi, I'm Shahd Mohamed Elnassag
 
 ### 💻 Software Engineer | Backend & DevOps | Automation & Cloud
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+DevOps+Engineer;Java+%7C+Python+%7C+C%2B%2B;Docker+%7C+Kubernetes+%7C+CI%2FCD;Automation+%7C+Cloud+%7C+System+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+DevOps+Engineer;Java+%7C+Python+%7C+C%2B%2B;Docker+%7C+Kubernetes+%7C+CI%2FCD;Automation+%7C+Cloud+%7C+System+Engineering;Building+Reliable+%26+Scalable+Software" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/SH-code12">
-  <img src="https://img.shields.io/badge/GitHub-SH--code12-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-SH--code12-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
+
 <a href="mailto:shahdelnassag@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shahdelnassag%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -21,65 +23,57 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** with hands-on experience across **backend development, DevOps, automation, software testing, databases, and systems programming**.
+I'm a **Software Engineer** with hands-on experience across:
 
-My work focuses on building reliable software, automating development and deployment workflows, designing backend services, and working with modern infrastructure and cloud technologies.
+- 🔧 Backend Development
+- ☁️ DevOps & Cloud
+- 🔄 CI/CD & Automation
+- 🧪 Software Testing
+- 🗄️ Database Engineering
+- ⚙️ Systems Programming
+- 🤖 AI-Powered Software
 
-I enjoy working across the stack — from **writing backend APIs and business logic** to **containerizing applications, building CI/CD pipelines, automating infrastructure, and monitoring distributed systems**.
+I enjoy building reliable software, designing backend services, automating infrastructure,
+creating CI/CD pipelines, and working with modern cloud and container technologies.
 
-### What I Do
-
-* 🔧 Build backend applications and RESTful APIs
-* ☕ Develop Java applications using Spring Boot & Spring Security
-* 🐍 Build web applications and APIs using Python, Django, Flask & FastAPI
-* 🐳 Containerize applications using Docker & Docker Compose
-* ☸️ Deploy and manage applications using Kubernetes & Helm
-* 🔄 Design CI/CD pipelines using GitHub Actions & Jenkins
-* ☁️ Automate infrastructure using Terraform & Ansible
-* 📊 Implement monitoring and centralized logging with Prometheus, Grafana & Loki
-* 🧪 Build UI and API automation testing frameworks
-* 🗄️ Design relational databases and work with SQL
-* ⚙️ Work with systems programming, cross-compilation, QEMU & MIPS
-* 🤖 Explore AI/LLM-powered software systems and automation
+My experience includes **Java/Spring Boot, Python, C++, RESTful APIs, Docker,
+Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, SQL, AWS and Linux**.
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🔹 Software Engineering Intern — EgronX
-
 **Aug 2025 – Oct 2025**
 
-* Engineered RESTful APIs using **Java & Spring Boot**
-* Managed project dependencies using **Gradle**
-* Tested and documented APIs with **Postman**
-* Containerized applications using **Docker & Docker Compose**
-* Designed CI/CD pipelines using **GitHub Actions & Jenkins**
+- Engineered RESTful APIs using **Java & Spring Boot**
+- Managed dependencies using **Gradle**
+- Tested and documented APIs using **Postman**
+- Containerized applications using **Docker & Docker Compose**
+- Designed CI/CD pipelines using **GitHub Actions & Jenkins**
 
 ### 🔹 Embedded Systems Intern — Siemens Digital Industries Software
-
 **Jul 2025 – Sep 2025**
 
-* Worked in an enterprise engineering environment following **Agile & SDLC practices**
-* Studied **microcontroller architecture, RTOS, bootloaders and AUTOSAR**
-* Worked with **CAN communication**
-* Gained exposure to **HSM, cybersecurity and functional safety concepts**
+- Worked within an enterprise engineering environment using **Agile & SDLC practices**
+- Studied microcontroller architecture, **RTOS, bootloaders and AUTOSAR**
+- Worked with **CAN communication**
+- Gained exposure to **HSM, cybersecurity and functional safety**
 
 ### 🔹 DevOps Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)
-
 **Apr 2024 – Oct 2024**
 
-* Developed and deployed a dynamic web application using **Python & Flask**
-* Applied **DevOps lifecycle practices and automation**
-* Strengthened technical communication through Business English training
+- Developed and deployed a dynamic web application using **Python & Flask**
+- Applied DevOps lifecycle practices and automation
+- Strengthened technical communication and collaboration through Business English training
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 💻 Programming
+### 💻 Programming Languages
 
-<p>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -92,9 +86,11 @@ I enjoy working across the stack — from **writing backend APIs and business lo
 
 **Java • Python • C++ • C • C# • JavaScript • HTML • CSS • Prolog**
 
+---
+
 ### ☁️ DevOps, Cloud & Infrastructure
 
-<p>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/>
@@ -106,21 +102,31 @@ I enjoy working across the stack — from **writing backend APIs and business lo
 
 **Docker • Docker Compose • Kubernetes • Helm • Terraform • Ansible • Jenkins • GitHub Actions • AWS EC2 • Linux • Nginx**
 
+---
+
 ### 📊 Monitoring & Observability
 
 **Prometheus • Grafana • Loki**
 
-### 🔙 Backend & Web
+---
+
+### 🔙 Backend & Web Development
 
 **Spring Boot • Spring Security • FastAPI • Django • Flask • ASP.NET Core • RESTful APIs**
+
+---
 
 ### 🗄️ Databases
 
 **MySQL • PostgreSQL • Microsoft SQL Server • SQL • Database Design • ERD • Normalization**
 
+---
+
 ### 🧪 Testing & Development Tools
 
 **Postman • Selenium WebDriver • TestNG • Allure Reports • Maven • Gradle • Git • QEMU • Makefile**
+
+---
 
 ### 🧠 Software Engineering
 
@@ -134,18 +140,20 @@ I enjoy working across the stack — from **writing backend APIs and business lo
 
 <a href="https://github.com/SH-code12/Codience">🔗 View Repository</a>
 
-**Role:** AI Engineer & DevOps Engineer
+**Role:** AI Engineer & DevOps Engineer  
+**Jul 2025 – Jul 2026**
 
-An AI-powered platform designed to prioritize Pull Requests according to business impact and assist with reviewer recommendation.
+AI-powered platform for prioritizing Pull Requests based on business impact and recommending suitable reviewers.
 
 ### What I Built
 
-* Built the **Business Impact Scoring** feature using Python, FastAPI, GitHub/Jira APIs and AI/LLM integration
-* Contributed approximately **50% of the Reviewer Recommendation feature**
-* Developed REST APIs connecting frontend, backend and AI services
-* Dockerized the system into independent services
-* Configured service networking between components
-* Implemented CI/CD using **GitHub Actions & Jenkins**
+- Built the **Business Impact Scoring** feature from scratch
+- Used **Python, FastAPI, GitHub APIs, Jira APIs and AI/LLM integration**
+- Contributed approximately **50% of the Reviewer Recommendation feature**
+- Developed REST APIs connecting frontend, backend and AI services
+- Dockerized the system into separate services
+- Configured networking between services
+- Implemented CI/CD pipelines using **GitHub Actions & Jenkins**
 
 **Technologies:** Python • FastAPI • Docker • GitHub API • Jira API • AI/LLM • GitHub Actions • Jenkins
 
@@ -155,42 +163,20 @@ An AI-powered platform designed to prioritize Pull Requests according to busines
 
 <a href="https://github.com/SH-code12/DevOps_task">🔗 View Repository</a>
 
-A complete DevOps environment for deploying and monitoring a Flask application.
+Complete DevOps environment for deploying, automating and monitoring a Flask application.
 
 ### What I Built
 
-* Containerized the application using **Docker & Docker Compose**
-* Configured **Nginx** for application delivery
-* Provisioned AWS EC2 infrastructure using **Terraform**
-* Automated server configuration using **Ansible**
-* Built CI/CD pipelines using **GitHub Actions & Jenkins**
-* Deployed applications using **Kubernetes & Helm**
-* Implemented monitoring with **Prometheus & Grafana**
-* Implemented centralized logging using **Loki**
+- Containerized applications using **Docker & Docker Compose**
+- Configured **Nginx** for application delivery
+- Provisioned AWS EC2 infrastructure using **Terraform**
+- Automated server configuration using **Ansible**
+- Created CI/CD workflows using **GitHub Actions & Jenkins**
+- Deployed applications using **Kubernetes & Helm**
+- Implemented monitoring using **Prometheus & Grafana**
+- Implemented centralized logging using **Loki**
 
-**Technologies:** Docker • Docker Compose • Nginx • Terraform • Ansible • Kubernetes • Helm • Jenkins • GitHub Actions • AWS • Prometheus • Grafana • Loki
-
----
-
-## ☕ Java-Based Learning Management System
-
-<a href="https://github.com/SH-code12/Java-Based-Learning-Management-System">🔗 View Repository</a>
-
-A full-stack Learning Management System with separate Admin, Instructor and Student roles.
-
-### Features
-
-* Secure authentication
-* Role-based access control using **Spring Security**
-* Course and enrollment management
-* Assessments and grading
-* Attendance tracking
-* System and Gmail notifications
-* Performance tracking
-* Excel reporting
-* Learning analytics dashboards
-
-**Technologies:** Java • Spring Boot • Spring Security • MySQL • REST APIs • Postman
+**Technologies:** Docker • Docker Compose • Nginx • Terraform • Ansible • Kubernetes • Helm • Jenkins • GitHub Actions • AWS EC2 • Prometheus • Grafana • Loki
 
 ---
 
@@ -198,45 +184,248 @@ A full-stack Learning Management System with separate Admin, Instructor and Stud
 
 <a href="https://github.com/SH-code12/AutomationTestingFrameWork_APITestingDummyJSON">🔗 View Repository</a>
 
-A UI and API automation framework for an e-commerce platform.
+**Role:** Automation & API Test Developer  
+**Apr 2026 – May 2026**
+
+UI and API automation framework for an e-commerce platform.
 
 ### Features
 
-* Selenium WebDriver automation
-* TestNG test execution
-* Page Object Model
-* Data-driven testing
-* API CRUD testing
-* JSON validation
-* Authentication testing
-* Dynamic Bearer-token handling
-* Allure reporting
+- Selenium WebDriver automation
+- TestNG test execution
+- Page Object Model
+- Data-driven testing
+- API CRUD testing
+- JSON validation
+- Authentication testing
+- Dynamic Bearer-token handling
+- Allure reporting
 
-**Technologies:** Java • Selenium • TestNG • Postman • JavaScript • Allure
+**Technologies:** Java • Selenium WebDriver • TestNG • Postman • JavaScript • Allure
 
 ---
 
-## 🧩 Open Source Java Soft-Computing Library
+## ☕ Java-Based Learning Management System
+
+<a href="https://github.com/SH-code12/Java-Based-Learning-Management-System">🔗 View Repository</a>
+
+**Role:** Java Backend Developer  
+**Nov 2024 – Jan 2025**
+
+Full-stack Learning Management System with separate **Admin, Instructor and Student** roles.
+
+### Features
+
+- Secure authentication
+- Role-based access control using **Spring Security**
+- Course management
+- Enrollment management
+- Assessments and grading
+- Attendance tracking
+- System and Gmail notifications
+- Performance tracking
+- Excel reporting
+- Performance dashboards
+
+**Technologies:** Java • Spring Boot • Spring Security • MySQL • REST APIs • Postman
+
+---
+
+## 🧠 Open Source Java Soft-Computing Library
 
 <a href="https://github.com/SH-code12/Java-Library">🔗 View Repository</a>
 
-A modular Java library implementing multiple AI and soft-computing techniques.
+**Role:** Java Software Developer  
+**Oct 2025 – Dec 2025**
+
+A modular Java soft-computing library implementing multiple AI and machine-learning techniques.
 
 ### Implemented
 
-* Genetic Algorithms
-* Fuzzy Logic
-* Neural Networks
-* Configurable activation functions
-* Weight initialization
-* Optimizers
-* Loss functions
-* Mini-batch training
-* Data preprocessing
-* Model evaluation
-* Model save/load functionality
+- Genetic Algorithms
+- Fuzzy Logic
+- Neural Networks
+- Configurable layers
+- Activation functions
+- Weight initialization
+- Optimizers
+- Loss functions
+- Mini-batch training
+- Data preprocessing
+- Model evaluation
+- Model save/load functionality
 
 **Architecture:** Onion Architecture • OOP • Modular Design
+
+---
+
+# ⚙️ Systems & Engineering Projects
+
+## 🖥️ Cross-Platform Development & MIPS Toolchain
+
+<a href="https://github.com/SH-code12/Cross-Platform_Development-">🔗 View Repository</a>
+
+**Role:** Systems Developer  
+**Mar 2025 – Apr 2025**
+
+- Set up a **MIPS cross-compilation toolchain**
+- Compiled C programs using `mips-linux-gcc`
+- Executed MIPS binaries using **QEMU-MIPS**
+- Documented compilation, emulation and architecture comparison
+
+**Technologies:** C • GCC • MIPS • QEMU • Makefile • Linux
+
+---
+
+## ⚙️ CPU Scheduling Simulator
+
+<a href="https://github.com/SH-code12/CPU-Schedulers-Simulator">🔗 View Repository</a>
+
+**Role:** Java Developer  
+**Dec 2024 – Jan 2025**
+
+CPU scheduling simulator implementing multiple scheduling algorithms and visualizing process execution.
+
+### Implemented Algorithms
+
+- Round Robin
+- Shortest Job First (SJF)
+- Shortest Remaining Time First (SRTF)
+- Priority Scheduling
+- FCAI Scheduling
+
+### Features
+
+- Process preemption
+- Context switching
+- Arrival-time handling
+- Round Robin time quantum
+- Waiting-time calculation
+- Turnaround-time calculation
+- Average performance metrics
+- Execution-order tracking
+- Gantt-chart visualization
+
+**Technologies:** Java • CPU Scheduling • Algorithms • Process Management • Gantt Charts
+
+---
+
+## 🅿️ Multithreaded Parking System Simulation
+
+<a href="https://github.com/SH-code12/Multithreaded-Parking-System-Simulation">🔗 View Repository</a>
+
+**Role:** Java Developer  
+**Nov 2024 – Dec 2024**
+
+Concurrent parking-system simulation modeling multiple cars accessing limited parking spaces through multiple gates.
+
+### What I Built
+
+- Implemented `CarThread` and `GateThread`
+- Simulated concurrent car arrivals through **3 parking gates**
+- Used **Semaphores** to control access to **4 parking spaces**
+- Implemented parking, waiting and departure logic
+- Simulated arrival and parking durations
+- Added input-file processing
+- Implemented activity logging
+- Tracked parking status and statistics
+
+**Technologies:** Java • Multithreading • Threads • Semaphores • Concurrency • File Processing
+
+---
+
+## 💾 Vole Machine Simulator
+
+<a href="https://github.com/SH-code12/Machine-Simulator">🔗 View Repository</a>
+
+**Role:** C/C++ Developer  
+**Nov 2024 – Dec 2024**
+
+Implemented a machine-instruction simulator based on the **fetch–decode–execute cycle**.
+
+### Implemented
+
+- Registers
+- Program Counter (PC)
+- Instruction Register (IR)
+- Memory
+- Screen
+- Hexadecimal program loading
+- Instruction-by-instruction execution
+- Machine-state visualization
+
+**Technologies:** C++ • OOP • Computer Architecture • Hexadecimal Parsing
+
+---
+
+## 🎨 Graphics Application — C++ / WinAPI
+
+<a href="https://github.com/SH-code12/ComputerGraphics_AND_ConceptOfProgramming">🔗 View Repository</a>
+
+Created a graphics application implementing classical computer graphics algorithms.
+
+### Implemented
+
+- Hermite curves
+- Bézier curves
+- Color interpolation
+- Circle filling using Bresenham's algorithm
+- Polygon clipping using Cohen-Sutherland
+- WinAPI graphical interface
+
+**Technologies:** C++ • WinAPI • Computer Graphics • Algorithms
+
+---
+
+## 🖼️ Gray Scale Image Processor
+
+<a href="https://github.com/FatmaAtta/Image_Processing">🔗 View Repository</a>
+
+Built a C++ application for real-time image filtering and editing using object-oriented programming and pixel-level operations.
+
+**Technologies:** C++ • OOP • Image Processing • Pixel Operations
+
+---
+
+# 🗄️ Database & Application Projects
+
+## ✈️ Flight Reservation System
+
+<a href="https://github.com/SH-code12/Flight_Reservation_Project">🔗 View Repository</a>
+
+**Role:** C# Developer & Database Developer  
+**Mar 2024 – May 2024**
+
+Desktop flight reservation system combining **C# application development with relational database engineering**.
+
+### Database Engineering
+
+- Designed the database using **ERD modeling**
+- Applied database normalization
+- Designed many-to-many relationships
+- Implemented SQL Server tables
+- Created primary and foreign keys
+- Configured database relationships
+- Populated test data
+
+### Application Development
+
+- Connected the C# application to **Microsoft SQL Server**
+- Implemented:
+  - `INSERT`
+  - `UPDATE`
+  - `DELETE`
+  - `SELECT`
+  - `JOIN`
+- Developed Windows Forms interfaces for:
+  - User management
+  - Flight management
+  - Flight availability
+  - Booking operations
+- Implemented authentication and validation
+- Built separate **Admin and Customer** functionality
+
+**Technologies:** C# • Windows Forms • Microsoft SQL Server • SQL • ERD • Database Design • Normalization
 
 ---
 
@@ -244,58 +433,82 @@ A modular Java library implementing multiple AI and soft-computing techniques.
 
 <a href="https://github.com/SH-code12/Library_Website">🔗 View Repository</a>
 
-A full-stack online library platform for searching, browsing, borrowing and returning books.
+**Role:** Python/Django Full-Stack Developer  
+**Mar 2024 – Jun 2024**
+
+Online library platform for searching, browsing, borrowing and returning books.
+
+### Features
+
+- User authentication
+- Admin and User roles
+- Book management
+- Borrowing and returning
+- Django models and ORM
+- Database migrations
+- Dynamic web interface
 
 **Technologies:** Python • Django • HTML • CSS • JavaScript • Django ORM
 
 ---
 
-## ⚙️ Systems & Low-Level Projects
+# 🎮 AI & Algorithm Projects
 
-### 🖥️ Cross-Platform MIPS Development
-
-<a href="https://github.com/SH-code12/Cross-Platform_Development-">🔗 View Repository</a>
-
-* Built a MIPS cross-compilation toolchain
-* Compiled C applications using `mips-linux-gcc`
-* Executed MIPS binaries using **QEMU-MIPS**
-* Documented compilation and architecture workflow
-
-**Technologies:** C • GCC • MIPS • QEMU • Makefile • Linux
-
-### 💾 Vole Machine Simulator
-
-Implemented the fetch-decode-execute cycle and simulated:
-
-**Registers • PC • IR • Memory • Screen • Hexadecimal Programs**
-
-### 🎮 Gomoku AI
+## 🎮 Gomoku AI Game
 
 <a href="https://github.com/SH-code12/Gomoku_Game">🔗 View Repository</a>
 
-Implemented:
+GUI-based Gomoku game supporting:
 
-* Human vs Human
-* Human vs AI
-* AI vs AI
-* Minimax
-* Alpha-Beta Pruning
+- Human vs Human
+- Human vs AI
+- AI vs AI
+- Minimax
+- Alpha-Beta Pruning
 
-**Technologies:** Python • Tkinter • AI Algorithms
+**Technologies:** Python • Tkinter • Minimax • Alpha-Beta Pruning
 
 ---
 
-# 📚 Other Projects
+## 🧠 BigReal — Arbitrary Precision Real Number Library
 
-| Project                          | Technologies                                                   |
-| -------------------------------- | -------------------------------------------------------------- |
-| 🎨 Graphics Application          | C++ • WinAPI • Bézier • Hermite • Bresenham • Cohen-Sutherland |
-| ✈️ Flight Reservation System     | C# • SQL Server • ERD • Windows Forms                          |
-| ⭕ Tic-Tac-Toe Variations         | C++ • OOP • Game Logic                                         |
-| 🧠 Machine Instruction Simulator | C++ • OOP • Hex Parsing                                        |
-| ➕ BigReal Library                | C++ • OOP • Operator Overloading                               |
-| 🚁 Drone Delivery Pathfinding    | Prolog • A* Search                                             |
-| 🖼️ Image Processing             | C++ • OOP • Pixel Processing                                   |
+<a href="https://github.com/SH-code12/Big-Real">🔗 View Repository</a>
+
+Implemented a custom C++ `BigReal` class for performing operations on real numbers beyond standard data-type limitations.
+
+**Technologies:** C++ • OOP • Operator Overloading • Arbitrary Precision
+
+---
+
+## ⭕ Tic-Tac-Toe Game Variations
+
+<a href="https://github.com/SH-code12/Tic-Tac-Toe-Game-Variations">🔗 View Repository</a>
+
+Implemented multiple Tic-Tac-Toe variations using modular object-oriented design.
+
+### Variations
+
+- 5×5 Tic-Tac-Toe
+- Pyramid Tic-Tac-Toe
+- Four-in-a-Row
+
+**Technologies:** C++ • OOP • Game Logic • Modular Design
+
+---
+
+## 🚁 Drone Delivery Pathfinding
+
+<a href="https://github.com/asmaatefomran/Searching-Algorithms-Prolog">🔗 View Repository</a>
+
+Intelligent drone navigation system calculating paths while considering:
+
+- Obstacles
+- Delivery points
+- Energy constraints
+- Recharge stations
+- City-grid navigation
+
+**Technologies:** SWI-Prolog • A* Search • Constraint-Based Pathfinding
 
 ---
 
@@ -305,38 +518,37 @@ Implemented:
 
 **Cairo University — Faculty of Computers and Artificial Intelligence**
 
-**Major:** Computer Science
-**Specialization:** DevOps
-**2022 – 2026 | Cairo, Egypt**
+**Major:** Computer Science  
 
 ---
 
 # 🏅 Certifications & Training
 
-* **Software Engineering Internship — EgronX**
-
-  * DevOps & Backend
-* **Embedded Systems Internship — Siemens Digital Industries Software**
-* **DevOps Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)**
-* **Business English Training — Berlitz**
+- **Software Engineering Internship — EgronX**
+  - DevOps & Backend
+- **Embedded Systems Internship — Siemens Digital Industries Software**
+- **DevOps Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)**
+- **Business English Training — Berlitz**
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SH-code12&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Shahd's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SH-code12&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH-code12&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH-code12&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SH-code12&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SH-code12&theme=transparent&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 💡 What I'm Interested In
+# 💡 Areas of Interest
 
 ```text
 Backend Engineering
@@ -352,7 +564,7 @@ Testing & Software Quality
 AI-Powered Software
         ↓
 Systems & Low-Level Engineering
-```
+````
 
 ---
 
@@ -361,11 +573,11 @@ Systems & Low-Level Engineering
 <div align="center">
 
 <a href="mailto:shahdelnassag@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SH-code12">
-  <img src="https://img.shields.io/badge/GitHub-SH--code12-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-SH--code12-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -379,3 +591,8 @@ Systems & Low-Level Engineering
 **Thanks for visiting my profile!**
 
 </div>
+```
+
+This version incorporates the three projects you just provided and keeps their technical details consistent with your CV. The CV specifically documents the SQL Server/ERD work for the Flight Reservation System, the five scheduling algorithms and Gantt-chart functionality for the CPU simulator, and the thread/semaphore design for the parking simulation.
+
+**One thing I strongly recommend:** after you paste this into `SH-code12/SH-code12/README.md`, we should next improve the **top 5 pinned repositories** and their individual README files. That's what will make the profile look much more professional when a recruiter clicks through from the profile.
